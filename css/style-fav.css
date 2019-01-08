@@ -1,0 +1,31 @@
+h1{
+  color: #FF6347;
+}
+
+h2{
+  text-align: center;
+  font-family: fantasy;
+}
+
+ul{
+font-weight: bolder;
+font-style: oblique;
+background-color: #87CEFA;
+list-style-position: inside;
+margin left: 250px;
+margin-right: 250px;
+}
+
+p{
+  line-height: 30px;
+  color: #8B0000;
+}
+
+img{
+  font-size: 25px;
+}
+body{
+  text-align: center;
+}
+/*color, text-align, font-style, font-weight, font-family,
+ font-size, and line-height.*/
